@@ -18,7 +18,8 @@ AutosRUs' is experiencing production issues with MechaCar. The manufacturing dep
 3.) Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?<br>
 
 ## Summary Statistics on Suspension Coils
-![MechaCar_Statistical_Analysis ""]
+### Summary
+![MechaCar_Statistical_Analysis "total_summary"](https://github.com/Ninax3/MechaCar_Statistical_Analysis/blob/main/total_summary.png)
 
 ![MechaCar_Statistical_Analysis "lm"]
 
