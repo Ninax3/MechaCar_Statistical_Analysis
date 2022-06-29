@@ -31,6 +31,6 @@ AutosRUs' is experiencing production issues with MechaCar. The manufacturing dep
 ### T-test Lot 2
 ![MechaCar_Statistical_Analysis "ttest_lot2"](https://github.com/Ninax3/MechaCar_Statistical_Analysis/blob/main/ttest_lot2.png)
 ### T-test Lot 3
-![MechaCar_Statistical_Analysis "ttest_lot3"]
+![MechaCar_Statistical_Analysis "ttest_lot3"](https://github.com/Ninax3/MechaCar_Statistical_Analysis/blob/main/ttest_lot3.png)
 
 ## Study Design: MechaCar vs Competition
