@@ -21,11 +21,11 @@ AutosRUs' is experiencing production issues with MechaCar. The manufacturing dep
 ### Summary
 ![MechaCar_Statistical_Analysis "total_summary"](https://github.com/Ninax3/MechaCar_Statistical_Analysis/blob/main/total_summary.png)
 ### Lot Summary
-![MechaCar_Statistical_Analysis "lm"](https://github.com/Ninax3/MechaCar_Statistical_Analysis/blob/main/lot_summary.png)
+![MechaCar_Statistical_Analysis "lot_summary"](https://github.com/Ninax3/MechaCar_Statistical_Analysis/blob/main/lot_summary.png)
 
 ## T-tests on Suspension Coils
 ### T-test
-![MechaCar_Statistical_Analysis "ttest"]
+![MechaCar_Statistical_Analysis "ttest"](https://github.com/Ninax3/MechaCar_Statistical_Analysis/blob/main/ttest.png)
 ### T-test Lot 1
 ![MechaCar_Statistical_Analysis "ttest_lot1"]
 ### T-test Lot 2
