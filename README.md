@@ -52,7 +52,7 @@ The overall mean and variance is within the manufacturing accepted limits of 100
 ### T-test
 ![MechaCar_Statistical_Analysis "ttes"](https://github.com/Ninax3/MechaCar_Statistical_Analysis/blob/main/ttes.png)
 ### T-test Lot 1
-![MechaCar_Statistical_Analysis "ttestlot1"]
+![MechaCar_Statistical_Analysis "ttestlot1"](https://github.com/Ninax3/MechaCar_Statistical_Analysis/blob/main/ttestlot1.png)
 ### T-test Lot 2
 ![MechaCar_Statistical_Analysis "ttestlot2"]
 ### T-test Lot 3
