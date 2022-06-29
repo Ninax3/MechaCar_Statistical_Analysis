@@ -56,6 +56,6 @@ The overall mean and variance is within the manufacturing accepted limits of 100
 ### T-test Lot 2
 ![MechaCar_Statistical_Analysis "ttestlot2"](https://github.com/Ninax3/MechaCar_Statistical_Analysis/blob/main/ttestlot2.png)
 ### T-test Lot 3
-![MechaCar_Statistical_Analysis "ttestlot3"]
+![MechaCar_Statistical_Analysis "ttestlot3"](https://github.com/Ninax3/MechaCar_Statistical_Analysis/blob/main/ttestlot3.png)
 
 ## Study Design: MechaCar vs Competition
