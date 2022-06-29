@@ -10,7 +10,7 @@ AutosRUs' is experiencing production issues with MechaCar. The manufacturing dep
 ### Linear Regression Model
 ![MechaCar_Statistical_Analysis "lm"](https://github.com/Ninax3/MechaCar_Statistical_Analysis/blob/main/lm.png)
 ### Linear Regression Summary
-![MechaCar_Statistical_Analysis "lm"](
+![MechaCar_Statistical_Analysis "lm_summary"](https://github.com/Ninax3/MechaCar_Statistical_Analysis/blob/main/lm_summary.png)
 
 
 1.) Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?<br>
@@ -18,7 +18,18 @@ AutosRUs' is experiencing production issues with MechaCar. The manufacturing dep
 3.) Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?<br>
 
 ## Summary Statistics on Suspension Coils
+![MechaCar_Statistical_Analysis ""]
+
+![MechaCar_Statistical_Analysis "lm"]
 
 ## T-tests on Suspension Coils
+### T-test
+![MechaCar_Statistical_Analysis "ttest"]
+### T-test Lot 1
+![MechaCar_Statistical_Analysis "ttest_lot1"]
+### T-test Lot 2
+![MechaCar_Statistical_Analysis "ttest_lot2"]
+### T-test Lot 3
+![MechaCar_Statistical_Analysis "ttest_lot3"]
 
 ## Study Design: MechaCar vs Competition
