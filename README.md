@@ -2,7 +2,7 @@
 ## Summary
  AutosRUs' is experiencing production issues with MechaCar. The manufacturing department has asked to analyze production data for insights in production using MPG test results from 50 prototype MechaCars based on 5 variables - vehicle length, vehicle weight, spoiler angle, ground clearance and powertrain. 
 
-See mpg_table data here, .....
+See mpg_table data here, https://github.com/Ninax3/MechaCar_Statistical_Analysis/blob/main/MechaCar_mpg.csv
 
 ## Resources
 - R Studio: R version 4.2.0
