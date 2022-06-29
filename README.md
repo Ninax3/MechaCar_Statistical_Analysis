@@ -50,7 +50,7 @@ The overall mean and variance is within the manufacturing accepted limits of 100
 
 ## T-tests on Suspension Coils
 ### T-test
-![MechaCar_Statistical_Analysis "ttest"]
+![MechaCar_Statistical_Analysis "ttest"](https://github.com/Ninax3/MechaCar_Statistical_Analysis/blob/main/ttest.png)
 ### T-test Lot 1
 ![MechaCar_Statistical_Analysis "ttest_lot1"]
 ### T-test Lot 2
