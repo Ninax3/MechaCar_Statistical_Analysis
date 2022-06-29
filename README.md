@@ -51,11 +51,29 @@ The overall mean and variance is within the manufacturing accepted limits of 100
 ## T-tests on Suspension Coils
 ### T-test
 ![MechaCar_Statistical_Analysis "ttes"](https://github.com/Ninax3/MechaCar_Statistical_Analysis/blob/main/ttes.png)
+- At a significance level of 0.05, we fail to reject the null hypothesis with a p-value = 0.06028. There is no statistical difference between the sample and population mean. 
 ### T-test Lot 1
 ![MechaCar_Statistical_Analysis "ttestlot1"](https://github.com/Ninax3/MechaCar_Statistical_Analysis/blob/main/ttestlot1.png)
+- At a significance level of 0.05, we fail to reject the null hypothesis with a  p-value = 1. There is no statistical difference between the sample and population mean. 
 ### T-test Lot 2
 ![MechaCar_Statistical_Analysis "ttestlot2"](https://github.com/Ninax3/MechaCar_Statistical_Analysis/blob/main/ttestlot2.png)
+- At a significance level of 0.05, we fail to reject the null hypothesis with a p-value = 0.6072. There is no statistical difference between the sample and population mean. 
 ### T-test Lot 3
 ![MechaCar_Statistical_Analysis "ttestlot3"](https://github.com/Ninax3/MechaCar_Statistical_Analysis/blob/main/ttestlot3.png)
+- At a significance level of 0.05, we reject the null hypothesis with a p-value = 0.04168. There is a statistical difference between the sample and population mean. These findings correspond to the summary statistics in the section above. 
+
 
 ## Study Design: MechaCar vs Competition
+A statistical study to analyze safety and how MechaCar compares to the competition may prove to be valuable. Consumers are not only interested in MPG (miles per gallon)/fuel efficiency but safety is a top competitive factor important to consumers.<br> 
+The analysis would include:
+- Metrics: for both MechaCar and Competitor - Insurance Safety Rating as it relates to Weight; MPG (city and highway); Cylinders; Price
+- Hypothesis: Null: MechaCar is safer than the competition; Alternative: MechaCar is not safer than the competitiion
+- Statistical Test: Linear Regression Model and the T-Test
+- Data for Statistical Test: for both MechaCar and Competitor(s) - Insurance Safety Rating; Weight; MPG (city and highway); Cylinders; Price
+
+
+
+
+
+
+
